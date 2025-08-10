@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Meet Babak Yazdani</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to right, #f0f4f8, #d9e2ec);
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    .container {
+      max-width: 700px;
+      margin: 50px auto;
+      background: white;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    h1 {
+      text-align: center;
+      color: #2c3e50;
+    }
+    p {
+      line-height: 1.6;
+      font-size: 1.1em;
+    }
+    .contact {
+      margin-top: 20px;
+      font-size: 1.05em;
+    }
+    .contact a {
+      color: #2980b9;
+      text-decoration: none;
+    }
+    .contact a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>👋 Meet Babak Yazdani</h1>
+    <p>Hello! I'm <strong>Babak Yazdani</strong>, a friendly and open-minded guy from Tehran. I'm here to meet someone special — someone who values honesty, good vibes, and meaningful connection.</p>
+    <p>I enjoy deep conversations, exploring new ideas, and sharing laughter. If you're looking for a genuine friendship (and maybe something more), let's connect!</p>
+    
+    <div class="contact">
+      <p>📞 Phone: <a href="tel:+989054176975">+98 905 417 6975</a></p>
+      <p>💬 Telegram: <a href="https://t.me/Babakyazdani2">@Babakyazdani2</a></p>
+      <p>📸 Instagram: <a href="https://instagram.com/babak.yezdani">babak.yezdani</a></p>
+    </div>
+  </div>
+</body>
+</html>
